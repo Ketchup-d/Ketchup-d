@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ketchup-d
+- 👋 Hi, I’m Artin(@Ketchup-d)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 
