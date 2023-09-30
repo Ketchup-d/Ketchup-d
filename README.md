@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artin(@Ketchup-d)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m a python programmer
 
 <!---
 Ketchup-d/Ketchup-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
